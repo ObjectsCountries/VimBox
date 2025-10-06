@@ -2,7 +2,7 @@
 
 (GitHub supports STL model viewing, you can click on any of the model files to preview them.)
 
-I’ve spent the last few years almost exclusively playing fighting games. I’ve also spent the last *couple* of years daily-driving various Linux distros. With daily-driving Linux, it’s only inevitable that I reach a fork in the road: should I use Vim, or should I use Emacs?
+I’ve spent the last few years almost exclusively playing fighting games. I’ve also spent the last *couple* of years daily-driving various Linux distros. With these in mind, it’s only inevitable that I concoct an idea: find a way to combine the two.
 
 My fighting game journey started with Kazuya in Smash, which inspired me to pick up Armor King in Tekken 7. With my trusty, not-yet-worn-out Nintendo Switch Pro Controller, I set out to play ranked and forget that a lot of moves in this game are plus on block. I eventually branched out and found communities in Guilty Gear XX Accent Core Plus R, Street Fighter III: 3rd Strike, and Street Fighter 6.
 
@@ -22,7 +22,7 @@ The thing about Goldlewis is that his command inputs are unlike that of any othe
 
 At this point, I had gotten myself a PS5 controller, though I admittedly used (and still use) the analog stick rather than the D-pad. I had messed around on keyboard before as a makeshift leverless, and the idea of doing Behemoths was honestly not that daunting when not one-to-one with the controller motions. Then a question sparked in my head: What if I used Vim’s HJKL to do Behemoth Typhoons?
 
-https://github.com/ObjectsCountries/VimBox/raw/refs/heads/main/vimcombo.mp4
+https://github.com/user-attachments/assets/aec72b09-f46c-46ae-88e4-938c6b7e7d3b
 
 Not as hard as I was expecting. Not like I would ever actually play online with this.
 
