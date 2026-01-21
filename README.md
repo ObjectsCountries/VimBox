@@ -16,11 +16,11 @@ When Street Fighter 6 finally came out, I stayed up past midnight grinding Kimbe
 
 During my time in the Linux+ class, I was introduced to two terminal text editors: Vim and Nano. The simple idea of needing to press an extra key to start editing my text was absolutely unbearable to me then, so I did all of my editing with Nano. I even edited personal projects with it until the aforementioned extra-key mentality wore off and I told myself “what have I got to lose?”
 
-I started out Strive with Asuka, without a doubt the most complicated and difficult character in the game, because I thought I could handle it. As it turns out, I very clearly could not. I then switched to Giovanna, taking the Dustloop wiki’s advice to use a dash button in humility. I tried out Sin for a bit as well, but then I decided “to hell with it” and tried out the [White Wild Assault](https://www.dustloop.com/w/GGST/Mechanics#Wild_Assault) characters. I first tried Nagoriyuki, but he was too slow and I couldn’t manage the ~~edging meter~~ Blood Gauge. Then on my second attempt with Goldlewis Dickinson, something clicked. I knew he was the one. I knew he was my main.
+I started out Strive with Asuka, without a doubt the most complicated and difficult character in the game, because I thought I could handle it. As it turns out, I very clearly could not. I then switched to Giovanna, taking the Dustloop wiki’s advice in humility to use a dash button. I tried out Sin for a bit as well, but then I decided “to hell with it” and tried out the [White Wild Assault](https://www.dustloop.com/w/GGST/Mechanics#White_Wild_Assault) characters. I first tried Nagoriyuki, but he was too slow and I couldn’t manage the ~~edging meter~~ Blood Gauge. Then on my second attempt with Goldlewis Dickinson, something clicked. I knew he was the one. I knew he was my main.
 
 Vim wasn’t actually that hard to get into, but I only say that because I learned how to exit beforehand. Over time, I gradually got used to commands like dd, y2j, etc., and while I’m not a Vim god by any means, I definitely benefited from the motions way more than they got in my way.
 
-The thing about Goldlewis is that his command inputs are unlike that of any other character. See the following:
+The thing about Goldlewis is that his command inputs are unlike that of any other character. Almost his entire kit consists of half-circles in every direction imaginable. See the following:
 
 ![Behemoth Typhoons](behemoth-typhoon.jpg)
 
