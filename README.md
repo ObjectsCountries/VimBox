@@ -2,17 +2,21 @@
 
 (GitHub supports STL model viewing, you can click on any of the model files to preview them.)
 
+![The VimBox](vimbox.jpg)
+
+## Background
+
 I’ve spent the last few years almost exclusively playing fighting games. I’ve also spent the last *couple* of years daily-driving various Linux distros. With these in mind, it’s only inevitable that I concoct an idea: find a way to combine the two.
 
 My fighting game journey started with Kazuya in Smash, which inspired me to pick up Armor King in Tekken 7. With my trusty, not-yet-worn-out Nintendo Switch Pro Controller, I set out to play ranked and forget that a lot of moves in this game are plus on block. I eventually branched out and found communities in Guilty Gear XX Accent Core Plus R, Street Fighter III: 3rd Strike, and Street Fighter 6.
 
-My Linux journey started off with a CompTIA Linux+ class, where we were instructed to use CentOS. I remember our professor basically held our hands and guided us through the final as a sort of review, but it felt like he was simply giving us the answers. I ended up beginning my daily-driving journey with Mint on August 15, 2023, before moving to Arch (btw) months later. That’s what got me into rolling-release distros, and I now happily daily-drive EndeavourOS.
+My Linux journey started off with a CompTIA Linux+ class, where we were instructed to use CentOS. I remember our professor basically held our hands and guided us through the final as a sort of review, but it felt like he was simply giving us the answers. I ended up beginning my daily-driving journey with Mint on August 15, 2023, before moving to Arch (btw) months later. That’s what got me into rolling-release distros, and I now happily daily-drive CachyOS.
 
-When Street Fighter 6 finally came out, I stayed up past midnight grinding Kimberly combo trials. I made it to Master, then the highest rank in the game, then plummeted down from 1500 MR (the starting point) to around 1200. This discouraged me from playing more, so I decided to give Guilty Gear Strive a shot.
+When Street Fighter 6 finally came out, I stayed up past midnight grinding Kimberly combo trials. I made it to Master, the highest rank in the game at that time, then plummeted down from 1500 MR (the starting point) to around 1200. This discouraged me from playing more, so I decided to give Guilty Gear Strive a shot.
 
-During my time in the Linux+ class, I was introduced to two terminal text editors: Vim and Nano. The simple idea of needing to press an extra key to start editing my text was absolutely unbearable to me then, so I did all of my editing with Nano. I even edited personal projects with it until the aforementioned mentality wore off and I told myself “what have I got to lose?”
+During my time in the Linux+ class, I was introduced to two terminal text editors: Vim and Nano. The simple idea of needing to press an extra key to start editing my text was absolutely unbearable to me then, so I did all of my editing with Nano. I even edited personal projects with it until the aforementioned extra-key mentality wore off and I told myself “what have I got to lose?”
 
-I started out Strive with Asuka, without a doubt the most complicated and difficult character in the game, because I thought I was him. As it turns out, I was very clearly not. I then switched to Giovanna, taking the Dustloop wiki’s advice to use a dash button in a state of being humble. I tried out Sin for a bit as well, but then I decided “to hell with it” and tried out the White Wild Assault characters. I first tried Nagoriyuki, but he was too slow and I couldn’t manage the ~~edging meter~~ Blood Gauge. Then on my second attempt with Goldlewis, something clicked. I knew he was the one. I knew he was my main.
+I started out Strive with Asuka, without a doubt the most complicated and difficult character in the game, because I thought I could handle it. As it turns out, I very clearly could not. I then switched to Giovanna, taking the Dustloop wiki’s advice to use a dash button in humility. I tried out Sin for a bit as well, but then I decided “to hell with it” and tried out the [White Wild Assault](https://www.dustloop.com/w/GGST/Mechanics#Wild_Assault) characters. I first tried Nagoriyuki, but he was too slow and I couldn’t manage the ~~edging meter~~ Blood Gauge. Then on my second attempt with Goldlewis Dickinson, something clicked. I knew he was the one. I knew he was my main.
 
 Vim wasn’t actually that hard to get into, but I only say that because I learned how to exit beforehand. Over time, I gradually got used to commands like dd, y2j, etc., and while I’m not a Vim god by any means, I definitely benefited from the motions way more than they got in my way.
 
@@ -28,7 +32,29 @@ Not as hard as I was expecting. Not like I would ever actually play online with 
 
 I had had experience with CAD software, though I have to admit that I forgot pretty much everything when I started designing the box. The original design was WAY bigger, with 30 mm buttons. I had to shrink it down to make it fit in my university’s 3D printers. I modeled drafts, asked for help from friends and Discord servers, and ordered the parts way before I could build it. Then on Wednesday, October 1, 2025, I got to work. Hours later, it was real.
 
-In between ordering the parts and building the thing, Riot Games announced a closed beta for their new fighting game, 2XKO. With the way Riot loves funding university esports teams, I got to grinding. I had already installed a dual-boot for Windows in preparation, so I didn’t need to worry about that. The great thing about 2XKO is that it has no command inputs, just special buttons and directions. I wouldn’t have minded to learn how to do a DP on my VimBox, but this simplification made it easy to pick up. I peaked at Emerald 2 before the Early Access maintenance started.
+In between ordering the parts and building the thing, Riot Games announced a closed beta for their new fighting game, 2XKO. I had already installed a dual-boot for Windows in preparation, so I didn’t need to worry about that. The great thing about 2XKO is that it has no command inputs, just special buttons and directions. I wouldn’t have minded to learn how to do a DP on my VimBox, but this simplification made it easy to pick up. I peaked at Emerald 2 before the Early Access maintenance started.
+
+When 2XKO came out, I was dual-booting Windows 11 with EndeavourOS (on separate drives). But admittedly, I was only ever using Windows, so I moved all my files to my Windows drive. Then after a while, I wanted to dual-boot Linux again, so I tried to install CachyOS with rEFInd. However, it wouldn’t even show up in my BIOS. The reason I went with rEFInd is because when it’s customized while Secure Boot is on, it still displays at the full resolution (unlike GRUB, which defaults to like 360p and can’t be changed without turning off Secure Boot entirely). So I decided “if I can’t have rEFInd, I won’t have Windows” and am now solely daily-driving CachyOS with GRUB, having dropped 2XKO.
+
+Now that 2XKO was out of the question, it was time to learn how to do Behemoths with Vim directions. Did I mention that Goldlewis has a super move with variations done by inputting 1 to 3 full circles?
+
+![Down With The System](dwts.png)
+
+Try and see how you can input a full circle with HJKL, clockwise or counterclockwise (both are valid facing either direction in-game). Impossible? With one hand, yeah. But I tried it out with two hands. Left middle finger on H, left index on J, right index on K, right middle on L. Then [plink](https://glossary.infil.net/?t=Plink) from your middle to your index, alternating between hands. Do this for a tiny bit, then press P. You should get something like this:
+
+![1080 Down With The System](dwts1080.gif)
+
+As the [Dustloop page](https://www.dustloop.com/w/GGST/Goldlewis_Dickinson#Down_With_The_System) says:
+
+> The cutscene after the wind-up animation will indicate a successful 720 (glasses twinkle) or 1080 (glasses twinkle then break).
+
+Then I was grinding training mode, putting a lot of strain on my right forearm for some reason, when the L key suddenly snapped off:
+
+![Broken VimBox L Key](vimbox_broken.jpg)
+
+Nothing I can’t resolder though.
+
+(to be continued)
 
 ## Assembly
 
