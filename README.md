@@ -52,7 +52,7 @@ Then I was grinding training mode, putting a lot of strain on my right forearm f
 
 ![Broken VimBox L Key](vimbox_broken.jpg)
 
-Nothing I can’t resolder though.
+One of the pins on the right arrow key completely broke, so I went ahead and ordered a new one from [here](https://focusattack.com/cherry-mx-red-stem-45g-mechanical-switch-for-samducksa-202-mx-pushbutton/).
 
 (to be continued)
 
