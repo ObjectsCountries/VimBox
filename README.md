@@ -1,6 +1,6 @@
 # VimBox
 
-(GitHub supports STL model viewing, you can click on any of the model files to preview them.)
+(GitHub supports STL model viewing, you can click on a model file to preview it.)
 
 ![The VimBox](vimbox.jpg)
 
@@ -54,7 +54,9 @@ Then I was grinding training mode, putting a lot of strain on my right forearm f
 
 One of the pins on the right arrow key completely broke, so I went ahead and ordered a new one from [here](https://focusattack.com/cherry-mx-red-stem-45g-mechanical-switch-for-samducksa-202-mx-pushbutton/).
 
-(to be continued)
+I then went to my university’s engineering lab to try and re-solder the keypad. I couldn’t really do it and ended up completely mangling the keypad (and melting the VimBox’s plastic a bit) since my soldering iron was too hot. I ordered 4 more keycaps, and once they arrived, I went back and tried again with a lower temperature. I struggled greatly until I used the *other* soldering station right next to the one I was using. With that one, I finished it in seconds. I have no idea why this other station was so, so, so much better, but who am I to complain? Anyway, I took it home and hopped back into Strive’s training mode.
+
+I also tried out Street Fighter 6’s training mode, playing as Kimberly. She doesn’t have any DP inputs, just simple quarter circles, so you’d think it would be easy to do combos. But alas, I was inputting my moves too early for the buffer system to detect them, and I struggled with basic combos. I suppose I need to practice more (reference to unused line in Street Fighter III: 3rd Strike).
 
 ## Assembly
 
@@ -63,22 +65,23 @@ Any item, tool or step marked with an asterisk is optional, unless you intend on
 ### Items
 
 * [Eight Crown/Samducksa SDB-202 MX 24mm Screwbutton Green](https://focusattack.com/crown-samducksa-sdb-202-mx-24mm-screwbutton-green/) (for the face buttons)
-* Four Cherry MX keyboard switches (can be ordered as extras with 24mm buttons)
+* [Four Cherry MX Red keyboard switches](https://focusattack.com/cherry-mx-red-stem-45g-mechanical-switch-for-samducksa-202-mx-pushbutton/) (can be ordered as extras with 24mm buttons)
 * [Five Sanwa SDM 18mm Pushbutton - White](https://focusattack.com/sanwa-sdm-18mm-pushbutton-white/) (for the side buttons)
 * [Tai-Hao Neon Green Row 2 Blank 4 Key OEM Profile TPR Rubber Keycap Set](https://mechanicalkeyboards.com/products/tai-hao-4-key-tpr-blank-rubber-keycap-set-neon-green-row-2) (for the keys)
 * [Any Raspberry Pi Pico variant](https://www.raspberrypi.com/products/raspberry-pi-pico/) (I used a Pico W, but you won’t need wireless capabilities)
 * USB-A to Micro-USB Cable that can transfer data (this can be tested during step 1)
 * \*[USB Type A Female Breakout](https://www.sparkfun.com/sparkfun-usb-type-a-female-breakout.html)
 * \*PS5 Adapter such as [this one by Mayflash](https://www.amazon.com/dp/B01N66G4HE) or [the Brook Wingman](https://www.brookaccessory.com/products/wingmanfgc/index.html)
-* Four M3 6mm Heat Set Inserts
-* [Four M3 12mm screws](https://www.homedepot.com/p/321071710) (these have extra length to accomodate for the lid)
-* Four M2 4mm Heat Set Inserts
+* [Four M3 6mm Heat Set Inserts](https://www.mcmaster.com/94459A434/)
+* [Four M3-0.5×12mm screws](https://www.homedepot.com/p/321071710) (these have extra length to accomodate for the lid)
+* [Four M2 4mm Heat Set Inserts](https://www.mcmaster.com/94459A120/)
 * [Four M2-0.4×4mm Screws](https://www.homedepot.com/p/310723420)
 * [Vim sticker](https://www.redbubble.com/i/sticker/VIM-by-arthurreeder/16789391.O9UDB) for garnish
 
 ### Tools
 
 * Soldering workstation
+* Wire stripper
 * Tool to insert heat set inserts
 * Lots of solder
 * One long wire for ground
