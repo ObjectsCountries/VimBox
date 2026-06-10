@@ -54,7 +54,7 @@ You will need experience soldering, or to ask a friend for help.
 4. Lay the lid face down behind the box with the switch holes on the right.
 5. Lay the box face up with the USB output facing away from you.
 6. Insert the buttons and switches into the appropriate holes before soldering, preferably all in matching orientation. The 24 mm buttons will have plastic nuts on the bottom to keep them in place.
-7. Insert the heat set inserts. Put the M3 ones in the top holes of the box, and the M2 ones in the smaller holes close to the USB output. A tutorial is available [here](https://www.youtube.com/watch?v=hwq15qH-4x4).
+7. Insert the heat set inserts. Put the M3 ones in the top holes of the box ~~and the M2 ones in the smaller holes close to the USB output~~. A tutorial is available [here](https://www.youtube.com/watch?v=hwq15qH-4x4).
 8. ~~If not already present, solder on header pins to the Raspberry Pi.~~
 9. ~~If room is available, screw the Raspberry Pi into the M2 heat set insert holes. If not, plug in the USB cable from outside to keep it in place.~~ **Drill two 5/64" holes into the VimBox for the 2 rear screw holes of the Pi, and use the M2-0.4×10mm screws.**
 10. \*Use the breadboard to solder the 4 header pins onto the USB breakout board.
