@@ -6,9 +6,7 @@
 
 ![The Interior of the VimBox](vimbox_interior.jpg)
 
-Files [vimbox_buttons.png](vimbox_buttons.png) and [vimbox_buttons.json](vimbox_buttons.json) are intended for use with [this Input Overlay OBS plugin](https://obsproject.com/forum/resources/input-overlay.552/).
-
-![VimBox Overlay](vimbox_overlay.png)
+The files in the [Button Overlays](Button%20Overlays/) folder are intended for use with [this Input Overlay OBS plugin](https://obsproject.com/forum/resources/input-overlay.552/).
 
 ## Assembly
 

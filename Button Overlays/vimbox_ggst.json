@@ -1,0 +1,253 @@
+{
+    "default_width": 74,
+    "default_height": 74,
+    "space_h": 0,
+    "space_v": 0,
+    "flags": 4,
+    "overlay_width": 843,
+    "overlay_height": 374,
+    "elements": [
+        {
+            "type": 8,
+            "pos": [
+                525,
+                155
+            ],
+            "id": "HJKL",
+            "z_level": "0",
+            "mapping": [
+                1,
+                1,
+                318,
+                72
+            ]
+        },
+        {
+            "type": 2,
+            "pos": [
+                300,
+                250
+            ],
+            "id": "Dash",
+            "z_level": "0",
+            "mapping": [
+                435,
+                105,
+                74,
+                74
+            ],
+            "code": 0
+        },
+        {
+            "type": 2,
+            "pos": [
+                400,
+                275
+            ],
+            "id": "Dust",
+            "z_level": 0,
+            "mapping": [
+                358,
+                105,
+                74,
+                74
+            ],
+            "code": 1
+        },
+        {
+            "type": 2,
+            "pos": [
+                400,
+                175
+            ],
+            "id": "Heavy Slash",
+            "z_level": 0,
+            "mapping": [
+                281,
+                105,
+                74,
+                74
+            ],
+            "code": 3
+        },
+        {
+            "type": 2,
+            "pos": [
+                300,
+                150
+            ],
+            "id": "Slash",
+            "z_level": "0",
+            "mapping": [
+                204,
+                105,
+                74,
+                74
+            ],
+            "code": 2
+        },
+        {
+            "type": 2,
+            "pos": [
+                712,
+                59
+            ],
+            "id": "PS",
+            "z_level": 0,
+            "mapping": [
+                1115,
+                115,
+                70,
+                71
+            ],
+            "code": 5
+        },
+        {
+            "type": 2,
+            "pos": [
+                233,
+                60
+            ],
+            "id": "Select",
+            "z_level": 0,
+            "mapping": [
+                1115,
+                115,
+                70,
+                71
+            ],
+            "code": 4
+        },
+        {
+            "type": 0,
+            "pos": [
+                225,
+                0
+            ],
+            "id": "Labels",
+            "z_level": "0",
+            "mapping": [
+                1324,
+                133,
+                600,
+                60
+            ]
+        },
+        {
+            "type": 2,
+            "pos": [
+                354,
+                60
+            ],
+            "id": "Start",
+            "z_level": 0,
+            "mapping": [
+                1115,
+                115,
+                70,
+                71
+            ],
+            "code": 6
+        },
+        {
+            "type": 2,
+            "pos": [
+                473,
+                60
+            ],
+            "id": "Left Stick Click",
+            "z_level": 0,
+            "mapping": [
+                1115,
+                115,
+                70,
+                71
+            ],
+            "code": 7
+        },
+        {
+            "type": 2,
+            "pos": [
+                592,
+                59
+            ],
+            "id": "Right Stick Click",
+            "z_level": 0,
+            "mapping": [
+                1115,
+                115,
+                70,
+                71
+            ],
+            "code": 8
+        },
+        {
+            "type": 2,
+            "pos": [
+                100,
+                300
+            ],
+            "id": "Faultless Defense",
+            "z_level": "0",
+            "mapping": [
+                588,
+                105,
+                74,
+                74
+            ],
+            "code": 9
+        },
+        {
+            "type": 2,
+            "pos": [
+                200,
+                275
+            ],
+            "id": "Punch",
+            "z_level": "0",
+            "mapping": [
+                50,
+                105,
+                74,
+                74
+            ],
+            "code": 10
+        },
+        {
+            "type": 6,
+            "pos": [
+                100,
+                200
+            ],
+            "id": "Taunt",
+            "z_level": "0",
+            "mapping": [
+                512,
+                105,
+                74,
+                74
+            ],
+            "direction": 3,
+            "trigger_mode": true,
+            "side": 0
+        },
+        {
+            "type": 6,
+            "pos": [
+                201,
+                175
+            ],
+            "id": "Kick",
+            "z_level": "0",
+            "mapping": [
+                127,
+                105,
+                74,
+                74
+            ],
+            "direction": 3,
+            "trigger_mode": true,
+            "side": 1
+        }
+    ]
+}
