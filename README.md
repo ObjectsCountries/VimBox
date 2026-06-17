@@ -66,7 +66,7 @@ You will need experience soldering, or to ask a friend for help.
 14. Attach a female-to-male wire to the last ground wire with the same method as above.
 15. \*Plug in your Brook converter/Mayflash adapter/etc. to the USB breakout board.
 
-I have SOCD set to left + right = neutral, and up + down = neutral. My buttons are laid out like this (reading order):
+I have SOCD set to left + right = neutral, and up + down = up. My buttons are laid out like this (reading order):
 
 | Physical Button | Button   | Pin Number |
 |-----------------|----------|------------|
